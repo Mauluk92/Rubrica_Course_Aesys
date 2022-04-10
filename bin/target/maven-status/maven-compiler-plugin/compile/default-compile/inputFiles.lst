@@ -1,0 +1,17 @@
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/LoginServlet.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/filters/RegisterFilter.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/models/user/UserDao.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/UpdateContactServlet.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/models/contact/ContactDao.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/validators/RegisterValidatorForm.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/RemoveContactServlet.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/models/user/User.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/validators/ContactValidatorForm.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/AddContactServlet.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/models/Connection.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/filters/AddContactFilter.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/filters/RemoveContactFilter.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/Register.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/models/contact/Contact.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/filters/UpdateContactFilter.java
+/home/nikolaj/NetBeansProjects/Rubrica/src/main/java/it/mauluk92/rubrica/views/filters/LoginFilter.java

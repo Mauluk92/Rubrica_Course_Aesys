@@ -1,0 +1,14 @@
+it/mauluk92/rubrica/views/Register.class
+it/mauluk92/rubrica/views/filters/LoginFilter.class
+it/mauluk92/rubrica/views/validators/ContactValidatorForm.class
+it/mauluk92/rubrica/models/contact/ContactDao.class
+it/mauluk92/rubrica/models/user/User.class
+it/mauluk92/rubrica/views/UpdateContactServlet.class
+it/mauluk92/rubrica/views/filters/RegisterFilter.class
+it/mauluk92/rubrica/views/LoginServlet.class
+it/mauluk92/rubrica/views/filters/UpdateContactFilter.class
+it/mauluk92/rubrica/views/validators/RegisterValidatorForm.class
+it/mauluk92/rubrica/models/user/UserDao.class
+it/mauluk92/rubrica/models/contact/Contact.class
+it/mauluk92/rubrica/views/AddContactServlet.class
+it/mauluk92/rubrica/views/filters/AddContactFilter.class
